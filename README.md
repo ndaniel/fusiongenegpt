@@ -1,6 +1,6 @@
 # Generative AI for biomedical insights
 
-FusionGeneGPT is a generative AI tool built with Streamlit and hosted on Hugging Face Spaces, 
+[FusionGeneGPT]](https://huggingface.co/spaces/ngdaniel/fusiongene-gpt) is a generative AI tool built with Streamlit and hosted on Hugging Face Spaces, 
 designed to extract and summarize biomedical knowledge about human fusion genes from PubMed 
 abstracts. It uses the OpenAI GPT API for natural language understanding and 
 synthesis. The interface allows users to input gene names (e.g., FGFR3-TACC3) and receive 
